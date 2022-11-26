@@ -1,21 +1,11 @@
-### Hi I'm Teerachot 👋
+## Hi I'm Teerachot 👋
 I'm  studying at Thammasat University in the Faculty of Engineering in Software Engineering 🏫
-### My Programming Skills
+## My Programming Skills
+👇🏼👇🏼  Check this!!  👇🏼👇🏼
+
+
 <a href="https://stackshare.io/teerachotjaturatassanai/my-stack">
 <img src="https://img.shields.io/badge/tech-stack-0690fa.svg?style=for-the-badge&logo=stackshare&labelColor=000&color=3572A5#gh-light-mode-only" alt="Checkout my development stack" >
 
-<!--
-**arcsad/arcsad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
- 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arcsad&show_icons=true&theme=buefy )
