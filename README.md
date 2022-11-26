@@ -1,6 +1,9 @@
 ### Hi I'm Teerachot 👋
+I'm  studying at Thammasat University in the Faculty of Engineering in Software Engineering 🏫
+### My Programming Skills
+<a href="https://stackshare.io/teerachotjaturatassanai/my-stack">
+<img src="https://img.shields.io/badge/tech-stack-0690fa.svg?style=for-the-badge&logo=stackshare&labelColor=000&color=3572A5#gh-light-mode-only" alt="Checkout my development stack" >
 
-### Skill
 <!--
 **arcsad/arcsad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
